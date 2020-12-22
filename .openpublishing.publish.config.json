@@ -2,6 +2,20 @@
   "build_entry_point": "docs",
   "docsets_to_publish": [
     {
+      "docset_name": "abc",
+      "build_source_folder": "folder1/floder2",
+      "build_output_subfolder": "acc",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "acc",
       "build_source_folder": "folder1/floder2",
       "build_output_subfolder": "acc",
