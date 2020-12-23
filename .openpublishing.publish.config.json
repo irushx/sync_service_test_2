@@ -30,6 +30,20 @@
       "template_folder": "_themes"
     },
     {
+      "docset_name": "acc1",
+      "build_source_folder": "folder1/floder2",
+      "build_output_subfolder": "acc1",
+      "locale": "en-us",
+      "monikers": [],
+      "moniker_ranges": [],
+      "open_to_public_contributors": true,
+      "type_mapping": {
+        "Conceptual": "Content"
+      },
+      "build_entry_point": "docs",
+      "template_folder": "_themes"
+    },
+    {
       "docset_name": "aea",
       "build_source_folder": "folder1/floder2",
       "build_output_subfolder": "aea",
